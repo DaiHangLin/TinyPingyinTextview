@@ -222,8 +222,8 @@ public class TinyPingYinView extends TextView {
 //                        }
                         if (pinyin.get(aLong.intValue()).equalsIgnoreCase(NEW_LINE_PLACE_HOLDER)) {
                             currentLineIndex ++;
-                            scrollListener.scrollToPosition(currentLineIndex * lineHeight);
-                            scrollListener.scrollByDy(lineHeight);
+                            scrollListener.scrollToPosition(currentLineIndex * lineHeight + currentLineIndex * linePadding);
+                            scrollListener.scrollByDy(lineHeight + linePadding);
                         }
                     }
                 });

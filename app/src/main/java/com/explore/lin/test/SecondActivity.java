@@ -63,7 +63,8 @@ public class SecondActivity extends Activity {
         myTv.setScrollListener(new TinyPingYinView.ScrollListener() {
             @Override
             public void scrollToPosition(int position) {
-                scrollParent.scrollTo(0, position);
+//                scrollParent.scrollTo(0, position);
+                myTv.scrollTo(0, position);
             }
 
             @Override

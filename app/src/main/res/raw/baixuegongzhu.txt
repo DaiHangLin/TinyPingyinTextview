@@ -1,114 +1,26 @@
-[00:00.00]bái xuě gōng zhǔ
-[00:00.00]白雪公主
-[00:02.57]yán dōng shí jiē , yī gè shàn liáng de wáng hòu shēng xià yī gè nǚ ér ，
-[00:02.57]严冬时节，一个善良的王后生下一个女儿 ，
-[00:07.37]tā de pí fū bái lǐ tòu hóng ，bái de xiàng xuě huā 	，
-[00:07.37]她的皮肤白里透红，白的像雪花，
-[00:11.32]hóng dé xiàng xiān xuè ，tóu fā xiàng wū mù yī bān ，
-[00:11.32]红得像鲜血，头发像乌木一般，
-[00:15.22]yòu hēi yòu liàng ，dà jiā gěi tā qǔ míng jiào bái xuě gōng zhǔ 。
-[00:15.22]又黑又亮，大家给它取名叫白雪公主。
-[00:20.52]bú xìng de shì bái xuě gōng zhǔ hái méi yǒu zhǎng dà ，
-[00:20.52]不幸的是白雪公主还没有长大，
-[00:24.37]wáng hòu shēng bìng sǐ le ，
-[00:24.37]王后生病死了，
-[00:31.91]guó wáng yòu qǔ le yī gè piāo liàng dàn xīn cháng dǎi dú de qī zǐ 。
-[00:31.91]国王又娶了一个漂亮但心肠歹毒的妻子。
-[00:37.11]zhè gè wáng hòu yǒu yī miàn mó jìng ，tā jīng cháng wèn jìng zǐ ，
-[00:37.11]这个王后有一面魔镜，她经常问镜子，
-[00:40.21]"shuí shì shì jiè shàng zuì piāo liàng de nǚ rén "， 
-[00:40.21]"谁是世界上最漂亮的女人"，
-[00:43.16]rú guǒ jìng zǐ huí dá "shì nín "，
-[00:43.16]如果镜子回答"是您"，
-[00:45.71]tā jiù huì gāo xìng yī zhěng tiān ，
-[00:45.71]她就会高兴一整天，
-[00:48.77]rú guǒ bú shì ，tā jiù huì xiǎng bàn fǎ ，
-[00:48.77]如果不是，她就会想办法，
-[00:52.02]bǎ bǐ tā zhǎng dé měi lì de nǚ rén chú diào 。
-[00:52.02]把比她长得美丽的女人除掉。
-[00:54.79]bái xuě gōng zhǔ jiàn jiàn zhǎng dà le ，
-[00:54.79]白雪公主渐渐长大了，
-[00:54.82]tā chū luò dé yì cháng měi lì 。
-[00:54.82]她出落得异常美丽。
-[00:56.81]yǒu yī tiān mó jìng shuō ："wáng hòu ，bái xuě gōng zhǔ bǐ nín piāo liàng yī bǎi bèi 。"
-[00:56.81]有一天魔镜说："王后，白雪公主比您漂亮一百倍。"
-[01:03.70]wáng hòu tīng dào le zhè huà ，lián máng jiào lái le yī míng liè rén ，
-[01:03.70]王后听到了这话，连忙叫来了一名猎人，
-[01:09.11]ràng tā bǎ bái xuě gōng zhǔ dài dào sēn lín lǐ shā diào 。
-[01:09.11]让他把白雪公主带到森林里杀掉。
-[01:12.92]kě shì liè rén shí zài bú rěn xīn ，tā jiù bǎ bái xuě gōng zhǔ fàng zǒu le ，
-[01:12.92]可是猎人实在不忍心，他就把白雪公主放走了，
-[01:18.48]bái xuě gōng zhǔ zǒu ā zǒu ，wǎn shàng tā lái dào le yī jiān xiǎo fáng zǐ lǐ ，
-[01:18.48]白雪公主走啊走，晚上她来到了一间小房子里，
-[01:25.71]fáng zǐ lǐ suǒ yǒu de dōng xī dōu shì xiǎo xiǎo de 。
-[01:25.71]房子里所有的东西都是小小的。
-[01:29.11]bái xuě gōng zhǔ tǎng zài yī zhāng xiǎo chuáng shàng shuì zhe le 。
-[01:29.11]白雪公主躺在一张小床上睡着了。
-[01:33.81]bú jiǔ ，qī gè xiǎo ǎi rén huí lái le ，
-[01:33.81]不久，七个小矮人回来了，
-[01:36.50]tā men kàn dào bái xuě gōng zhǔ dōu zàn měi shuō ：
-[01:36.50]他们看到白雪公主都赞美说：
-[01:39.42]"yī gè duō me chún jié kě ài de hái zǐ ā ！"
-[01:39.42]"一个多么纯洁可爱的孩子啊！"
-[01:42.61]jiù zhè yàng ，bái xuě gōng zhǔ hé qī gè xiǎo ǎi rén shēng huó zài yī qǐ 。
-[01:42.61]就这样，白雪公主和七个小矮人生活在一起。
-[01:48.18]wáng hòu tōng guò mó jìng zhī dào bái xuě gōng zhǔ méi yǒu sǐ ，
-[01:48.18]王后通过魔镜知道白雪公主没有死，
-[01:52.78]yú shì bàn chéng yī gè lǎo tài tài ，chèn xiǎo ǎi rén chū mén shí ，
-[01:52.78]于是扮成一个老太太，趁小矮人出门时，
-[01:56.88]lái dào wū qián jiào mài ："kuài lái mǎi ya hǎo kàn de sī dài !"
-[01:56.88]来到屋前叫卖："快来买呀好看的丝带!"
-[02:02.87]bái xuě gōng zhǔ hěn xǐ huān ,jiào lǎo tài tài jìn dào wū zǐ lǐ 。
-[02:02.87]白雪公主很喜欢,叫老太太进到屋子里。
-[02:08.06]wáng hòu jiǎ zhuāng bāng tā xì sī dài ，jié guǒ yòng jìn yī lè ，
-[02:08.06]王后假装帮她系丝带，结果用劲一勒，
-[02:13.96]bái xuě gōng zhǔ zhì xī le guò qù 。
-[02:13.96]白雪公主窒息了过去。
-[02:17.28]wǎn shàng xiǎo ǎi rén kàn dào bái xuě gōng zhǔ hūn dǎo zài dì ，dà chī yī jīng 。
-[02:17.28]晚上小矮人看到白雪公主昏倒在地，大吃一惊。
-[02:22.70]tā men cāi dào shì huáng hòu gàn de huài shì ，lián máng jiě kāi sī dài ，
-[02:22.70]他们猜到是皇后干的坏事，连忙解开丝带，
-[02:27.70]gōng zhǔ zhú jiàn sū xǐng guò lái 。
-[02:27.70]公主逐渐苏醒过来。
-[02:31.40]zhī dào bái xuě gōng zhǔ méi yǒu sǐ ，dǎi dú de wáng hòu gèng shēng qì le 。
-[02:31.40]知道白雪公主没有死，歹毒的王后更生气了。
-[02:36.26]tā jīng xīn zhì zuò le yī gè yī bàn yǒu dú yī bān méi dú de hóng píng guǒ ，
-[02:36.26]她精心制作了一个一半有毒一般没毒的红苹果，
-[02:41.68]yòu zhuāng chéng yī wèi nóng fū ná dào bái xuě gōng zhǔ chuāng qián jiào mài 。
-[02:41.68]又装成一位农妇拿到白雪公主窗前叫卖。
-[02:46.09]yī kāi shǐ bái xuě gōng zhǔ bú gǎn chī 。wáng hòu zhe jí le ， 
-[02:46.09]一开始白雪公主不敢吃。王后着急了，
-[02:50.85]shuō ："nǐ pà zhè píng guǒ yǒu dú ma ？nà me wǒ chī gěi nǐ kàn 。"
-[02:50.85]说："你怕这苹果有毒吗？那么我吃给你看。"
-[02:56.41]shuō wán ，wáng hòu chī le méi dú de nà bàn píng guǒ 。 
-[02:56.41]说完，王后吃了没毒的那半苹果。
-[03:01.31]bái xuě gōng zhǔ jiàn le ，zài yě rěn bú zhù ，ná qǐ le lìng yī bàn píng guǒ yǎo le yī kǒu 。
-[03:01.31]白雪公主见了，再也忍不住，拿起了另一半苹果咬了一口。
-[03:06.91]gōng zhǔ dùn shí hūn sǐ guò qù ，zhè yī cì ，
-[03:06.91]公主顿时昏死过去，这一次，
-[03:10.82]wú lùn xiǎo ǎi rén cǎi yòng shí me bàn fǎ dōu wú fǎ jiù huó tā 。
-[03:10.82]无论小矮人采用什么办法都无法救活她。
-[03:15.29]xiǎo ǎi rén men fēi cháng shāng xīn ，tā men zuò le yī kǒu shuǐ jīng guān cái ，
-[03:15.29]小矮人们非常伤心，他们做了一口水晶棺材，
-[03:20.39]bǎ bái xuě gōng zhǔ fàng le jìn qù ，lún liú shǒu hù zhe tā 。
-[03:20.39]把白雪公主放了进去，轮流守护着她。
-[03:24.93]yī gè wáng zǐ jīng guò ，kàn dào měi lì de bái xuě gōng zhǔ ，
-[03:24.93]一个王子经过，看到美丽的白雪公主，
-[03:29.18]yú shì kěn qiú xiǎo ǎi rén ，ràng tā bǎ gōng zhǔ dài huí zì jǐ de guó jiā 。
-[03:29.18]于是恳求小矮人，让他把公主带回自己的国家。
-[03:33.73] xiǎo ǎi rén men jiàn tā fēi cháng zhēn chéng ，jiù dá yīng le 。 
-[03:33.73]小矮人们见他非常真诚，就答应了。
-[03:37.54]lù shàng ，guān cái yī bú xiǎo xīn kē pèng le yī xià ， 
-[03:37.54]路上，棺材一不小心磕碰了一下，
-[03:41.16]jiāng bái xuě gōng zhǔ hóu lóng lǐ de dú píng guǒ zhèn le chū lái 。
-[03:41.16]将白雪公主喉咙里的毒苹果震了出来。
-[03:45.17] bái xuě gōng zhǔ zhēng kāi le yǎn jīng ，wáng zǐ gāo xìng huài le ，
-[03:45.17]白雪公主睁开了眼睛，王子高兴坏了，
-[03:49.52]huí guó hòu jiù hé tā jǔ háng le hūn lǐ 。 
-[03:49.52]回国后就和她举行了婚礼。
-[03:53.98]hěn dú de wáng hòu yě cān jiā le hūn lǐ ，
-[03:53.98]狠毒的王后也参加了婚礼，
-[03:56.94]tā kàn jiàn le xīn niáng jiù shì bái xuě gōng zhǔ shí ， 
-[03:56.94]她看见了新娘就是白雪公主时，
-[04:00.30]jí dù dé zhěng zhāng liǎn dōu niǔ qǔ le ，chéng wéi shì jiè shàng zuì chǒu de nǚ rén 。
-[04:00.30]嫉妒得整张脸都扭曲了，成为世界上最丑的女人。
+sì　　jì
+四季
+cǎo　 yá　 jiān　jiān ,
+草芽尖尖，
+tā　　duì　xiǎo　niǎo　shuō :
+他对小鸟说：
+" wǒ　　shì　chūn　tiān 。 "
+“我 是 春 天。”
+hé　　yè　　yuán　yuán ，
+荷 叶 圆 圆，
+tā　　duì　qīng　 wā　 shuō ：
+他 对 青 蛙 说：
+" wǒ　　shì　xià　　tiān 。 "
+“我 是 夏 天。”
+gǔ　　suì　 wān　 wān ，
+谷 穗 弯 弯，
+tā　　jū　　zhe　gōng　shuō ：
+他 鞠 着 躬 说：
+" wǒ　　shì 　qiū 　tiān 。 "
+“我 是 秋 天。”
+xuě　 rén　 dà　　dù　　zi　　yì　 tǐng ，
+雪 人 大 肚 子 一 挺，
+tā　　wán　 pí　　de　 shuō ：
+他 顽 皮 地 说：
+" wǒ　 jiù　　shì　dōng 　tiān 。 "
+“我 就 是 冬 天。”
