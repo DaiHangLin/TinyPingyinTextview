@@ -1,0 +1,2 @@
+# TinyPingyinTextview
+简单用于显示拼音加汉字的TextView
