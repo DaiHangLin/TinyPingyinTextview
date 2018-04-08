@@ -89,6 +89,7 @@ public class TinyPingYinView extends TextView {
     private int baseLine = 0;
     private int descent = 0;
     private int lineHeight = 0;
+    private int linePadding = 20;
     private void initPaint() {
         myTextPaint.setAntiAlias(true);
         myTextPaint.setTextSize(16 * getResources().getDisplayMetrics().density);
@@ -124,11 +125,6 @@ public class TinyPingYinView extends TextView {
 
     public void setNewLineIndex(Set<Integer> newLineIndex) {
         this.newLineIndex = newLineIndex;
-    }
-
-    private void measureHeight() {
-        viewHeight = newLineIndex.size() * lineHeight;
-        invalidate();
     }
 
     @Override
@@ -177,7 +173,7 @@ public class TinyPingYinView extends TextView {
             // 换行 无需绘制
             if (pinYin.equalsIgnoreCase(NEW_LINE_PLACE_HOLDER) || startX +  pinYinWidth >= viewWidth || startX +  hanZiWidth >= viewWidth) {
                 startX = initX;
-                startY = startY + lineHeight;
+                startY = startY + lineHeight + linePadding;
             } else {
                 // startY 是 baseLine
                 canvas.drawText(pinYin, startX + pinYinCenterPadding, startY, myTextPaint);
