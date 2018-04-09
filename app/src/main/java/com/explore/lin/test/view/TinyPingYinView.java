@@ -88,7 +88,7 @@ public class TinyPingYinView extends TextView {
 
     private int baseLine = 0;
     private int descent = 0;
-    private int lineHeight = 0;
+    private int lineHeight = 60;
     private int linePadding = 20;
     private void initPaint() {
         myTextPaint.setAntiAlias(true);
@@ -110,9 +110,47 @@ public class TinyPingYinView extends TextView {
 
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
-        viewWidth = MeasureSpec.getSize(widthMeasureSpec) - getPaddingLeft() - getPaddingRight();
-        viewHeight = MeasureSpec.getSize(heightMeasureSpec) - getPaddingTop() - getPaddingBottom();
-        super.onMeasure(widthMeasureSpec, heightMeasureSpec);
+        int desiredWidth = 100;
+        int desiredHeight = 100;
+
+        int widthMode = MeasureSpec.getMode(widthMeasureSpec);
+        int widthSize = MeasureSpec.getSize(widthMeasureSpec);
+        int heightMode = MeasureSpec.getMode(heightMeasureSpec);
+        int heightSize = MeasureSpec.getSize(heightMeasureSpec);
+
+        int width;
+        int height;
+
+        //Measure Width
+        if (widthMode == MeasureSpec.EXACTLY) {
+            //Must be this size
+            width = widthSize;
+        } else if (widthMode == MeasureSpec.AT_MOST) {
+            //Can't be bigger than...
+            width = Math.min(desiredWidth, widthSize);
+        } else {
+            //Be whatever you want
+            width = desiredWidth;
+        }
+
+        //Measure Height
+        if (heightMode == MeasureSpec.EXACTLY) {
+            //Must be this size
+            height = heightSize;
+        } else if (heightMode == MeasureSpec.AT_MOST) {
+            //Can't be bigger than...
+            height = (lineHeight + linePadding) * newLineIndex.size();
+        } else {
+            //Be whatever you want
+            height = (lineHeight + linePadding) * newLineIndex.size();
+        }
+
+        viewWidth = width;
+        viewHeight = height;
+
+        //MUST CALL THIS
+        setMeasuredDimension(width, height);
+
     }
 
     public void setHanzi(List hanzi) {
@@ -125,6 +163,7 @@ public class TinyPingYinView extends TextView {
 
     public void setNewLineIndex(Set<Integer> newLineIndex) {
         this.newLineIndex = newLineIndex;
+        setHeight((lineHeight + linePadding) * newLineIndex.size());
     }
 
     @Override

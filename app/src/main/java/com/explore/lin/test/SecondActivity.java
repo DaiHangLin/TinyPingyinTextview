@@ -43,7 +43,6 @@ public class SecondActivity extends Activity {
                 myTv.setHanzi(data.first);
                 myTv.setPinyin(data.second);
                 myTv.setNewLineIndex(ParseUtils.parsePinYinLineIndex(data.second));
-                myTv.setBaseLine(60);
                 myTv.invalidate();
             }
         });
