@@ -8,8 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ScrollView;
 
+import com.explore.lin.mylibrary.TinyPingYinView;
 import com.explore.lin.test.utils.ParseUtils;
-import com.explore.lin.test.view.TinyPingYinView;
 
 import java.util.List;
 

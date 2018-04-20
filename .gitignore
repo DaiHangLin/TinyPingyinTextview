@@ -26,6 +26,7 @@ hs_err_pid*
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
+/.idea
 /build
 /captures
 .externalNativeBuild

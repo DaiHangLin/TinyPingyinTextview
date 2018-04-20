@@ -29,7 +29,7 @@
             android:layout_centerHorizontal="true"/>
     </LinearLayout>
 
-    <com.explore.lin.test.view.TinyPingYinView
+    <com.explore.lin.mylibrary.TinyPingYinView
         android:id="@+id/tv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

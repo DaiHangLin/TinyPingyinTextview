@@ -1,4 +1,4 @@
-package com.explore.lin.test.view;
+package com.explore.lin.mylibrary;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
