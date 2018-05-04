@@ -24,8 +24,6 @@ import io.reactivex.functions.Consumer;
 
 /**
  * @author lin
- * @date 18/4/2
- * @license Copyright (c) 2016 那镁克
  */
 
 @SuppressLint("AppCompatCustomView")
@@ -102,7 +100,7 @@ public class TinyPingYinView extends TextView {
 
     /**
      * 设置字体所占的高度
-     * @param baseLine
+     * @param baseLine baseline
      */
     public void setBaseLine(int baseLine) {
         this.baseLine = baseLine;
