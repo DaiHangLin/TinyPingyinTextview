@@ -23,3 +23,11 @@
 
 + 本地删除MyLibrary库
 + 通过compile 'com.dlin:TinyPingyinTextview:0.0.1'加载已经上传到jcenter的MyLibrary库
+
+## 发布library到jcenter
+
+1. 参考这篇文章[https://www.geekhub.cn/a/1295.html](https://www.geekhub.cn/a/1295.html)
+2. 简单方式 通过[jitpack.io](http://jitpack.io)，这个是最快捷的了
+    + 进入官网后，已github账号登录
+    + 选择你需要发布的project
+    + ok
