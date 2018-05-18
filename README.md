@@ -18,3 +18,8 @@
 <img src="https://images2018.cnblogs.com/blog/596306/201804/596306-20180408165904481-1853356808.png" width="200" height="300">
 </p>
 <img src="https://images2018.cnblogs.com/blog/596306/201804/596306-20180408165908618-1894707176.png" width="200" height="300">
+
+## 2018-05-18
+
++ 本地删除MyLibrary库
++ 通过compile 'com.dlin:TinyPingyinTextview:0.0.1'加载已经上传到jcenter的MyLibrary库
